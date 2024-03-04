@@ -19,11 +19,11 @@ I am fluent in the languages of innovation:
 
 My expertise extends to orchestrating the data symphony:
 
-- 🪓 MySQL, Amazon RDS, Elasticsearch
+- 🪓 MySQL, PostgreSQL, MongoDB, Amazon RDS, Elasticsearch
 
 I lead the charge in the world of DevOps:
 
-- 🛠️ Docker, CI/CD, Amazon CloudWatch
+- 🛠️ Docker, CI/CD, Amazon CloudWatch, Kafka
 
 With my magic wand of version control, I navigate the code seas:
 
